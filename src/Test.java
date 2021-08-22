@@ -7,12 +7,12 @@ import java.util.logging.Logger;
 
 public class Test {
 	
-	enum Month {JAN,FEB,MAR,APR};
+	enum Month {JAN,FEB,MAR,APR}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("this is a change compared to the previous version");
 		 
-		ArrayList<String> aryList = new ArrayList<String>();
+		ArrayList<String> aryList = new ArrayList<>();
 		
 		aryList.add("1");
 		aryList.add("1");
